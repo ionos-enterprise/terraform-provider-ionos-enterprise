@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+# DEPRECATED
+
+This is no longer supported, please consider using [IONOS Cloud Terraform Provider](https://github.com/ionos-cloud/terraform-provider-ionoscloud) instead.
+
 # Terraform Provider for ProfitBricks
 
 The official repository is located here:
